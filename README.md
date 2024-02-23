@@ -28,6 +28,13 @@ To use Email TNT, simply visit our website at <https://email-tnt.onrender.com/>.
 
 If you need to send more than the free default limit of 500 emails per day, you can upgrade to our premium plan. With the premium plan, you'll get increased bomb limits and priority support. Contact us for more information on pricing and availability.
 
+
+** discord server ** 
+
+https://discord.gg/tj6Qsp89VU
+
+
+
 **Discord Bot**
 
 We're currently working on a Discord bot for Email TNT. With the Discord bot, you'll be able to send email bombs directly from your Discord server. Stay tuned for more information on the release of our Discord bot.

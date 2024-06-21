@@ -33,7 +33,9 @@ If you need to send more than the free default limit of 500 emails per day, you 
 
 https://discord.gg/tj6Qsp89VU
 
+** telegram **
 
+https://t.me/emailtnt
 
 **Discord Bot**
 
